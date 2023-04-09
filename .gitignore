@@ -1,0 +1,14 @@
+# Ignorar la carpeta node_modules
+node_modules/
+
+# Ignorar archivos de log
+*.log
+
+# Ignorar archivos de configuración local
+.env
+
+# Ignorar archivos generados por IDEs o editores de texto
+.vscode/
+.idea/
+*.sublime*
+*.swp

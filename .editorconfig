@@ -1,0 +1,19 @@
+# Configuración de indentación y espaciado
+[*]
+indent_style = space
+indent_size = 2
+trim_trailing_whitespace = true
+insert_final_newline = true
+
+# Configuración para JavaScript
+[*.js]
+max_line_length = 100
+
+# Configuración para TypeScript
+[*.ts]
+indent_size = 2
+
+# Configuración para archivos Markdown
+[*.md]
+max_line_length = 80
+trim_trailing_whitespace = false
